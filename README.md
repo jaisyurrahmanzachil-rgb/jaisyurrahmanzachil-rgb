@@ -49,7 +49,7 @@
 
 # 🏆 **Dailly actifity me**
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jaisyurrahmanzachil-rgb/jaisyurrahmanzachil-rgb/main/satu-lagi.jpg" width="600" />
+  <img src="https://raw.githubusercontent.com/jaisyurrahmanzachil-rgb/jaisyurrahmanzachil-rgb/main/satu-lagi.jpeg" width="600" />
 </div>
 
 ---
