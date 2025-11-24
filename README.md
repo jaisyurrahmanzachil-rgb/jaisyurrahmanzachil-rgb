@@ -30,14 +30,14 @@
 
 ---
 
-# 🧊 **Cyberpunk Quote (Guaranteed Render)**
+# 🧊 **Cartoon like possum illustration**
 <div align="center">
   <img src="https://raw.githubusercontent.com/jaisyurrahmanzachil-rgb/jaisyurrahmanzachil-rgb/main/tikus-github.jpg" width="600" />
 </div>
 
 ---
 
-# ⚡ **GitHub Stats (Stable Version)**
+# ⚡ **GitHub Stats**
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaisyurrahman&theme=radical&show_icons=true" />
@@ -47,9 +47,9 @@
 
 ---
 
-# 🏆 **Trophy Wall (Safe Theme, Always Works)**
+# 🏆 **Dailly actifity me**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaisyurrahman&theme=flat&margin-w=10&no-frame=true" />
+  <img src="https://raw.githubusercontent.com/jaisyurrahmanzachil-rgb/jaisyurrahmanzachil-rgb/main/satu-lagi.jpg" width="600" />
 </div>
 
 ---
@@ -65,7 +65,7 @@
 <div align="center">
 
 ### 🚀 Portfolio Website  
-🔗 *(Masukkan link portfolio kamu)*
+🔗 https://jaisyurrahmanzachil-rgb.github.io/Portofolio/
 
 ### 🧩 Landing Page + Form Pendaftaran  
 ✓ Validasi frontend  
@@ -78,9 +78,10 @@
 
 # 🌐 **Connect With Me**
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/6285784725547">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ez_zet07?utm_source=qr&igsh=b3Z2YXJxY3VxN2Zl"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:jaisyurrahmanzachil@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
