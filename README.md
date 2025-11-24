@@ -24,45 +24,40 @@
 ---
 
 # 🟦 **🟩 Matrix Hacker + Gradient Tech Stack**
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,express,mysql,git,github,vscode,figma&theme=light" />
 </div>
 
 ---
 
-# 🧊 **Cyberpunk Neon Quote (Animated) — Replacement for Glassmorphism**
+# 🧊 **Cyberpunk Quote (Guaranteed Render)**
 <div align="center">
-  <img src="https://readme-quote.vercel.app/api?type=horizontal&theme=neon" width="600" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-quote/main/quote.svg" width="600" />
 </div>
 
 ---
 
-# ⚡ **Animated GitHub Stats (Cyberpunk Theme — Stable)**
+# ⚡ **GitHub Stats (Stable Version)**
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaisyurrahman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaisyurrahman&theme=neon-dark&hide_border=true&border_radius=12" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaisyurrahman&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaisyurrahman&theme=radical&show_icons=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaisyurrahman&layout=compact&theme=radical" />
 
 </div>
 
 ---
 
-# 🏆 **Cyberpunk Trophy Wall — Replacement for Neon Trophy Room**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaisyurrahman&theme=radical&no-frame=true&margin-w=5" />
-</p>
+# 🏆 **Trophy Wall (Safe Theme, Always Works)**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jaisyurrahman&theme=flat&margin-w=10&no-frame=true" />
+</div>
 
 ---
 
 # 🐍 **Matrix Snake Contribution Animation**
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</div>
 
 ---
 
