@@ -32,7 +32,7 @@
 
 # 🧊 **Cyberpunk Quote (Guaranteed Render)**
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-quote/main/quote.svg" width="600" />
+  <img src="https://raw.githubusercontent.com/jaisyurrahmanachil-rgb/Jaisyurrahman/main/tikus-github.jpg" width="600" />
 </div>
 
 ---
