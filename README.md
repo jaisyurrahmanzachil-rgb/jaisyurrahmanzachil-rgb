@@ -31,33 +31,30 @@
 
 ---
 
-# 🧊 **Crystal Glassmorphism Quote**
+# 🧊 **Cyberpunk Neon Quote (Animated) — Replacement for Glassmorphism**
 <div align="center">
-  <img src="https://png.pngtree.com/thumb_back/fh260/background/20230714/pngtree-neon-glassmorphism-ui-background-abstract-image_3844795.jpg" width="400" style="border-radius: 20px; opacity: 0.85;" />
-  <p style="margin-top: -120px; font-size: 22px; font-weight: bold; color: white; text-shadow: 0 0 10px #00eaff;">
-    “Code like an artist. Build like an engineer.”
-  </p>
+  <img src="https://readme-quote.vercel.app/api?type=horizontal&theme=neon" width="600" />
 </div>
 
 ---
 
-# ⚡ **Animated GitHub Stats**
+# ⚡ **Animated GitHub Stats (Cyberpunk Theme — Stable)**
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaisyurrahman&show_icons=true&theme=tokyonight&border_radius=20" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaisyurrahman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaisyurrahman&theme=tokyonight&border_radius=20" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaisyurrahman&theme=neon-dark&hide_border=true&border_radius=12" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaisyurrahman&layout=compact&theme=tokyonight&border_radius=20" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaisyurrahman&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
 ---
 
-# 🏆 **Neon Trophy Room (Animated)**
+# 🏆 **Cyberpunk Trophy Wall — Replacement for Neon Trophy Room**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaisyurrahman&theme=onestar&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jaisyurrahman&theme=radical&no-frame=true&margin-w=5" />
 </p>
 
 ---
