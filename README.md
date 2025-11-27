@@ -32,7 +32,7 @@
 
 # 🧊 **Cartoon like possum illustration**
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jaisyurrahmanzachil-rgb/jaisyurrahmanzachil-rgb/main/images/kucing_ngoding.jpeg" width="600" />
+  <img src="https://raw.githubusercontent.com/jaisyurrahmanzachil-rgb/jaisyurrahmanzachil-rgb/main/images/foto_GW.jpeg" width="600" />
 </div>
 
 ---
@@ -40,7 +40,7 @@
 # ⚡ **GitHub Stats**
 <div align="center">
 
-<img height="165" src="https://raw.githubusercontent.com/jaisyurrahmanzachil-rgb/jaisyurrahmanzachil-rgb/main/images/foto_GW.jpeg" />
+<img height="165" src="https://raw.githubusercontent.com/jaisyurrahmanzachil-rgb/jaisyurrahmanzachil-rgb/main/images/kucing_ngoding.jpeg" />
 <img height="165" src="https://raw.githubusercontent.com/jaisyurrahmanzachil-rgb/jaisyurrahmanzachil-rgb/main/images/gw_JG.jpeg" />
 
 </div>
