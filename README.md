@@ -32,7 +32,7 @@
 
 # 🧊 **Cartoon like possum illustration**
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jaisyurrahmanzachil-rgb/jaisyurrahmanzachil-rgb/main/tikus-github.jpg" width="600" />
+  <img src="https://raw.githubusercontent.com/jaisyurrahmanzachil-rgb/jaisyurrahmanzachil-rgb/main/images/tikus-github.jpg" width="600" />
 </div>
 
 ---
@@ -40,8 +40,8 @@
 # ⚡ **GitHub Stats**
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaisyurrahman&theme=radical&show_icons=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaisyurrahman&layout=compact&theme=radical" />
+<img height="165" src="https://raw.githubusercontent.com/jaisyurrahmanzachil-rgb/jaisyurrahmanzachil-rgb/main/images/kelinci-haram.mp4" />
+<img height="165" src="https://raw.githubusercontent.com/jaisyurrahmanzachil-rgb/jaisyurrahmanzachil-rgb/main/images/kucing-github.mp4" />
 
 </div>
 
@@ -49,7 +49,7 @@
 
 # 🏆 **Dailly actifity me**
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jaisyurrahmanzachil-rgb/jaisyurrahmanzachil-rgb/main/satu-lagi.jpeg" width="600" />
+  <img src="https://raw.githubusercontent.com/jaisyurrahmanzachil-rgb/jaisyurrahmanzachil-rgb/main/images/satu-lagi.jpeg" width="600" />
 </div>
 
 ---
